@@ -1,0 +1,131 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+h1,h2{
+  color: #66BFBF;
+}
+h3,h4{
+  color: #11999E;
+  margin-top: 0;
+}
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 320px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 385px;
+  bottom: 310px
+}
+
+.top-name {
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  margin-bottom: 0;
+}
+
+.top-para {
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.hello-container {
+  width: 30%;
+  margin: 20px auto;
+  padding-bottom: 55px;
+}
+
+.me-logo {
+  width: 35%;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 5px 0 0 0;
+  width: 5%;
+  border-color: grey;
+}
+
+.work-container {
+  padding-top: 30px;
+  width: 50%;
+  margin: 20px auto 20px auto;
+}
+
+.clear-one{
+  width: 65%;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  bottom:20px;
+  left: 10px;
+}
+.work-logo{
+  width: 25%;
+  display: inline-block;
+  position: relative;
+  right: 20px;
+}
+.clear-two{
+  width: 65%;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  bottom:20px;
+  right: 10px;
+}
+.work-logo-two{
+  width: 25%;
+  display: inline-block;
+  position: relative;
+  left: 20px;
+}
+
+
+.help {
+  padding-top: 30px;
+  width: 50%;
+  margin: 20px auto 30px auto;
+  padding-bottom: 30px;
+}
+
+.footer {
+  background-color: #66BFBF;
+  /*padding-bottom: 0;*/
+  padding-top: 3px;
+}
+a{
+  color: #11999E;
+}
+.A {
+  position: relative;
+  right: 40px;
+}
+
+.C {
+  position: relative;
+  left: 40px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  display: inline-block;
+  margin-bottom: 0;
+  text-align: right;
+  position: relative;
+  top: 3px;
+  left: 35%;
+}
+p{
+  line-height: 1.5;
+}
